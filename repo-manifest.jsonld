@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/scrapy/cssselect/commit/805705c5a204721d3c486250377a756bd6fa54a5",
       "git:hexsha": "805705c5a204721d3c486250377a756bd6fa54a5",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.6.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.6.0",
+      "repolex:parsedAt": "2026-10-11T02:10:52.334609+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapy/cssselect/commit/6782a26ef90978ab94cf2bad321f435e5bfa7feb",
