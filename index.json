@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "cssselect",
+  "versions": [
+    {
+      "commit": "805705c5a204721d3c486250377a756bd6fa54a5",
+      "tag": "v1.6.0",
+      "parsed_at": "2026-10-11T02:10:52.579520+00:00"
+    }
+  ]
+}
